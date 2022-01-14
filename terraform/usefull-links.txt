@@ -1,0 +1,32 @@
+Automating Infrastructure on Google Cloud with Terraform: Challenge Lab:
+https://googlecourses.qwiklabs.com/focuses/16515?parent=catalog
+
+
+
+
+Terraform:
+https://www.terraform.io/
+
+Add Google Provider:
+https://registry.terraform.io/providers/hashicorp/google/latest/docs
+
+Import existing resources:
+https://www.terraform.io/docs/cli/commands/import.html#example-import-into-module
+
+Add resource configuration (compute engine instance):
+https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance
+
+Add resource configuration (cloud storage bucket):
+https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/storage_bucket
+
+Configure remote backend:
+https://www.terraform.io/docs/language/settings/backends/gcs.html
+
+Taint instance:
+https://www.terraform.io/docs/cli/commands/taint.html
+
+Use module from Terraform Registry:
+https://registry.terraform.io/modules/terraform-google-modules/network/google/3.4.0
+
+Add resource configuration (firewall rule):
+https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_firewall
