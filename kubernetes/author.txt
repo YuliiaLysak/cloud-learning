@@ -1,0 +1,2 @@
+https://github.com/GoogleCloudPlatform/training-data-analyst
+https://github.com/GoogleCloudPlatformTraining/training-data-analyst
